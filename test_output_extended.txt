@@ -1,0 +1,87 @@
+13
+-----
+16
+-----
+-10
+-----
+14
+-----
+10
+-----
+18
+-----
+16
+-----
+3
+-----
+2
+-----
+20
+-----
+15
+-----
+5
+-----
+18
+-----
+15
+-----
+24
+-----
+31
+-----
+13
+-----
+16
+-----
+5
+-----
+3.5
+-----
+3.75
+-----
+0.3
+-----
+3.3333333333
+-----
+2
+-----
+-6
+-----
+-5
+-----
+7
+-----
+-7
+-----
+0
+-----
+42
+-----
+0
+-----
+1000000000000
+-----
+Error: Division by zero
+-----
+Error: Division by zero
+-----
+Error: Mismatched parentheses
+-----
+Error: Mismatched parentheses
+-----
+Error: Malformed expression
+-----
+Error: Malformed expression
+-----
+Error: Malformed expression
+-----
+Error: Malformed expression
+-----
+Error: Malformed expression
+-----
+Error: Invalid character '$'
+-----
+Error: Invalid character 'a'
+-----
+Error: Invalid number '1.2.3'
